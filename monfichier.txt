@@ -1,1 +1,2 @@
 Exercice sur GIT
+Ajout sur github.
